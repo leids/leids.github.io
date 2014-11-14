@@ -16,6 +16,9 @@
     height:400px;
 }
 
+.img-responsive {
+    margin: 0 auto;
+}
 
 
 body {
